@@ -1,0 +1,1 @@
+**DooR DasH: Scare vs Laugh Touchdown** — A Monsters Inc. themed 2-player board game built in Java with a JavaFX GUI. Race across a 100-cell board as Scarers or Laughers, collect energy from doors, trigger card effects, and activate monster powerups. First to reach Boo's Door with 1000+ energy wins.
